@@ -1,0 +1,147 @@
+*{
+	list-style: none;
+	width: 100%;
+	text-decoration: none;	
+}
+.head{
+	position: sticky;
+}
+
+.body3{
+	background: rgb(239, 242, 247);
+}
+ #slider {
+    white-space: nowrap;
+  }
+  #slider .btn {
+    min-width: 50px; /* Adjust width as needed */
+  }
+
+.z3 {
+	color: grey;
+	padding-bottom: 10px;
+}
+	.z3 a{
+	color: grey;
+}
+.z3 a:hover{
+	color: white;
+}
+.y3{
+	color: grey;
+	text-align: center;
+	font-size: 0.70rem;
+}
+.head3 p{
+	font-size: 0.90rem;
+}
+.head3{
+	background-color: rgb(31, 37, 50);
+	justify-content: right;
+		color: white;
+		width: 100%;
+		height: 200px;
+		padding-top: 50px;
+		padding-left: 70px;
+}
+.a3{
+	padding-top: 20px;
+}
+.content3{
+	padding-top: 50px;
+	width: 950px;
+	box-sizing: border-box;
+  padding-left: 100px;
+}
+
+}
+.col-md-2{
+	background-color: white;
+}
+.content3 h5{
+   font-size: 0.90rem;
+   text-decoration-color: #d9dbe0;
+}
+.card-body{
+	justify-items: self-end;
+}
+.content3 h2{
+	padding-bottom: 20px;
+}
+.b3{
+padding-top: 20px;
+padding-right:10px ;
+}
+.b3 a{
+	text-decoration: none;
+}
+.main{
+	justify-content: right;
+}
+.canta3{
+	padding-top: 50px;
+}
+.offer-card {
+      border: 1px solid #ddd;
+      padding: 20px;
+      margin-top: 20px;
+      background-color: #f8f9fa;
+    }
+    .offer-header {
+      font-size: 24px;
+      font-weight: bold;
+    }
+    .offer-percentage {
+      font-size: 40px;
+      color: #17a2b8;
+    }
+    .redeem-button {
+      background-color: #17a2b8;
+      color: white;
+    }
+    .popular-vouchers {
+      list-style: none;
+      padding: 0;
+    }
+    .popular-vouchers li {
+      display: inline-block;
+      margin: 5px;
+    }
+    .voucher-tag {
+      padding: 10px;
+      border: 1px solid #ddd;
+      background-color: #f0f0f0;
+      border-radius: 5px;
+    }
+    .card3{
+    	border-right: 2px solid #17a9a1;
+    }
+    .CA3 p{
+        padding-top: 20px;
+        justify-content: space-between;
+        padding-bottom: 10px;
+    }
+    .CA3 h2{
+        padding-bottom: 30px;
+        font-size: 0.50 rem;
+    }
+
+     .CA3 h4{
+        font-size: 0.90 rem;
+    }
+    .CA3 button{
+    	background-color: #17a9a1;
+    	border: none;
+    	color: white;
+    	border-radius: 50px;
+    }
+    .main{
+    	padding: 0;
+    }
+    .CA3{
+      object-position: top;
+    }
+    .auto3{
+      object-position: top;
+      position: sticky;
+    }
